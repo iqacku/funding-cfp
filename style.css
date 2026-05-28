@@ -7,6 +7,10 @@ body {
     background-color: white;
 }
 
-footer {
-    font-size: 14px;
+.deadline-soon {
+    background-color: #fff3cd !important;
+}
+
+.deadline-expired {
+    background-color: #f8d7da !important;
 }

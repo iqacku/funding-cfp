@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "agency": "SERB",
+    "scheme": "Core Research Grant",
+    "title": "Artificial Intelligence for Healthcare",
+    "deadline": "2026-07-15",
+    "link": "https://www.serbonline.in"
+  },
+  {
+    "agency": "ICMR",
+    "scheme": "Extramural Research",
+    "title": "Medical Imaging and Diagnostics",
+    "deadline": "2026-08-10",
+    "link": "https://main.icmr.nic.in"
+  }
+]
